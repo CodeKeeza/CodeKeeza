@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm CodeKeeza</h1>
-<h3 align="center">Blockchain and Web3 developer.</h3>
+<h1 align="center">Hi, I'm CodeKeeza 👋</h1>
+<h3 align="center">I'm a Blockchain and Web3 developer.</h3>
 
 <br>
 
