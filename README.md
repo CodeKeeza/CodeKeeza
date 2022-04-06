@@ -11,7 +11,13 @@
       alt="solidity" width="40" height="40" /> </a><a href="https://trufflesuite.com/" target="_blank"
     rel="noreferrer"> <img
       src="https://trufflesuite.com/assets/logo.png"
-      alt="truffle" width="40" height="40" /> </a>
+      alt="truffle" width="40" height="40" /> </a><a href="https://hardhat.org/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://pbs.twimg.com/profile_images/1317925773425168384/XQkaoFRg_400x400.jpg"
+      alt="hardhat" width="40" height="40" /> </a><a href="https://tenderly.co/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://tenderly.co/static/logo-vertical-48c77fb121bed85553a911251d2923a5.svg"
+      alt="tenderly" width="40" height="40" /> </a>
 </p>
 
 
