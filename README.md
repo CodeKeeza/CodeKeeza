@@ -6,7 +6,8 @@
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=CodeKeeza&label=Profile%20views&color=0e75b6&style=flat"
     alt="CodeKeeza" /> 
   </p>
-  - 📫 How to reach me **codekeeza@protonmail.com**
+  - 📫 How to reach me via email: `codekeeza@protonmail.com`
+  - 💻 How to reach me via telegram: <a href="http://t.me/cryptickyleen" target="_blank" rel="noreferrer">@CrypticKyleEN</a>
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="CodeKeeza" /></p>
