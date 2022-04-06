@@ -12,12 +12,7 @@
     <a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg"
-      alt="javascript" width="40" height="40" /> </a>
-  
-
-  
-  
-  
+      alt="solidity" width="40" height="40" /> </a>
   
 </p>
 
