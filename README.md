@@ -8,8 +8,12 @@
       alt="javascript" width="40" height="40" /> </a><a href="https://docs.soliditylang.org/" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg"
-      alt="solidity" width="40" height="40" /> </a>
+      alt="solidity" width="40" height="40" /> </a><a href="https://trufflesuite.com/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://trufflesuite.com/assets/logo.png"
+      alt="truffle" width="40" height="40" /> </a>
 </p>
+
 
 <p>
   <img align="center"
