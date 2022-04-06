@@ -10,7 +10,7 @@
   - 💻 How to reach me via telegram: <a href="http://t.me/cryptickyleen" target="_blank" rel="noreferrer">@CrypticKyleEN</a>
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="CodeKeeza" height="180" width="180"/></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="CodeKeeza" height="350" width="350"/></p>
 
 <h3 align="left">Languages, Tools & Frameworks:</h3>
 <p>
