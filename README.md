@@ -9,9 +9,9 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a>
   
-    <a href="https://openzeppelin.com/" target="_blank"
+    <a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank"
     rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/master/logo.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg"
       alt="javascript" width="40" height="40" /> </a>
   
 
